@@ -18,6 +18,7 @@
 -----------------------------
 
 Для генерации отчета используется pytest-html
+
 Пример запуска:
 
 pytest --html=report.html -v httpbin_tests.py
